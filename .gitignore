@@ -1,7 +1,6 @@
 __pycache__/
 *.pyc
 .streamlit/secrets.toml
-database/*.db
 uploads/
 .venv/
 venv/
